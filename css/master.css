@@ -116,6 +116,26 @@ p {
   background-color: white;
 }
 
+.card{
+  height: 31.25rem;
+  padding: 1% 1%;
+}
+
+.card-img-top{
+  height: 15rem;
+  width: 100%;
+}
+
+.card-text{
+  width: 100%;
+  position: relative;
+  line-height: 110%;
+  height: 70%;
+  overflow:auto;
+  color: black;
+}
+
+
 #rentaltop {
   color: white;
 }
@@ -141,27 +161,29 @@ p {
 }
 
 .carousel {
-  height: 400px;
+  height: 30rem;
 }
 
 .fa-star {
   color: #ffd571;
+  font-size: 80%;
 }
 
 .testimonial-text {
-  margin: 2rem 0;
+  margin: 10% 0;
   color: #112d4e;
 }
 
 .customer-img {
-  width: 4rem;
+  width: 3rem;
   border-radius: 100%;
 }
 
 .carousel-inner {
+  display: block;
   width: 60%;
-  margin: 0px auto;
-  padding: 5% 10%;
+  margin: 0 auto;
+  padding: 5% 0;
 }
 
 /*footer*/
