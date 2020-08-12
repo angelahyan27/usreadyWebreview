@@ -1,0 +1,57 @@
+.apartment-title{
+    background-color: #dbe2ef;
+    padding-bottom: 1%;
+}
+
+.apartment-title p{
+    color: black;
+}
+
+.info{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.rentRollup{
+    margin-right: 1.25rem;
+}
+
+.longText{
+    font-weight: bold;
+} 
+
+#maincontent{
+    padding-top: 1%;
+    background-color: #f9f7f7;
+}
+.apt-detail{
+    background-color: #f9f7f7;
+    
+}
+.apt-contact{
+    background-color: #3f72af;
+    border-radius: 10%;
+    padding: 2% 2%;
+}
+
+.apt-contact h4{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    color: white;
+}
+
+.apt-contact .centerbutton{
+    margin: 1rem auto;
+    width: 40%;
+    height: 50%;
+}
+
+.form-group{
+    padding-top: 4%;
+}
+
+
+
+.detail-info p{
+    color: black;
+}
